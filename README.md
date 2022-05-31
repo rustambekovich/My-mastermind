@@ -1,2 +1,2 @@
 # My-mastermind
-ishlating oynang va zehningizni sinang
+Run, play and test your mind
